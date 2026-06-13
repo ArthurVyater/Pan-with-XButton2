@@ -4,9 +4,9 @@ XButton2 is that forward button on the side of a mouse.
 
 Pressing it will simulate middle-mose-button + shift. That's how you pan camera in Blender and Godot.
 
-MMB_Shift.ahk in an AutoHotkey script, get Auto Hotkey here: https://www.autohotkey.com/ and make your own executable.
+MMB_Shift.ahk in an AutoHotkey script, get AutoHotkey here: https://www.autohotkey.com/ and make your own executable.
 
-It's a bad practice to just download and .exe from some dude on the internet and running it on your computer, but if you trust me, then I've included MMB_Shift.exe and you can skip the previous instruction.
+It's a bad practice to just download an .exe from some dude on the internet and running it on your computer, but if you trust me, then I've included MMB_Shift.exe and you can skip the previous instruction.
 
 Disclaimer: I'm not very familiar with AutoHotkey scripting and on some very rare occasions the script will malfunction. It's no biggie: crtl+alt+deltete will reset all the inputs, you don't even have to open the Task Manager - just CtrlAltDelete.
 
