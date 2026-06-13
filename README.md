@@ -17,3 +17,20 @@ By the way, you can open AppData\Roaming folder by typing %appdata% in windows e
 
 LOGITECH: This script didn't work with my Logitech LIFT mouse so I had to download Logi Options+ and disable Horizontal Scrolling for the XButton2
 You can keep Horizontal Scrolling for XButton1 if it seems like a useful feature to you.
+
+-------------------------------------------------------------------------------------------
+
+"STOP DOING PINKY GYMNASTICS" BONUS:
+
+Bending your pinky way back to press ctrl is horrible, especially if you're using software like blender that has like a jillion hotkeys. I highly recommend remapping caps-lock to ctrl.
+
+You don't really need caps-lock unless you intend to posting long paragraphs on facebook about how (((they)))'re putting 5G in to vaccines.
+
+IDK how to do it, but this guy does:
+https://gist.github.com/joshschmelzle/5e88dabc71014d7427ff01bca3fed33d
+
+disclaimer: editing windows registry can really mess things up so don't make any mistakes!
+
+
+
+
